@@ -1,8 +1,7 @@
-
 @media screen and (min-width: 769px) {
   .aboutContent{
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
     border-left: 20px;
     border-right: 20px;
     /*background-color: red; */
@@ -21,10 +20,13 @@
     /*background-color:blue;*/
     padding-left: 51%;
 
+
+
   }
 
   .aboutContent__image {
     float: left;
+    padding-top: 40px;
   }
 
 
@@ -35,12 +37,12 @@
   .aboutContent {
     float: none;
     width: 90%;
+    padding-bottom: 20px;
+    padding-top:20px;
 
     &__image {
       display: block;
       margin: 0 auto;
-
-      float: center;
     }
     &__text {
       min-width: 320px;
