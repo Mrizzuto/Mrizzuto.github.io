@@ -1,0 +1,38 @@
+{
+    "1": {
+        "serial": "1",
+        "id": " United Stated >>> Russia 2019",
+        "start year": " 2019",
+        "start month": " January",
+        "start certainty": " certain",
+        "end year": " 2019",
+        "end month": " March",
+        "end certainty": " ",
+        "meta notes": " ",
+        "primary target": " United States"
+    },
+    "2": {
+        "serial": "2",
+        "id": " Turkey >>> Russia 2018",
+        "start year": " 2018",
+        "start month": " ",
+        "start certainty": "2018",
+        "end year": " ",
+        "end month": " December",
+        "end certainty": " ",
+        "meta notes": " some meta notes appear here",
+        "primary target": " Turkey"
+    },
+    "3": {
+        "serial": "3",
+        "id": " Russia >>> Mexico 2018",
+        "start year": " 2018",
+        "start month": " March",
+        "start certainty": " ",
+        "end year": " 2019",
+        "end month": " November",
+        "end certainty": " certain",
+        "meta notes": " some meta notes",
+        "primary target": " Russia"
+    }
+}
