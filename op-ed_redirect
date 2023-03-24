@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <style>
+    h2 {text-align: center;}
+    p {text-align: center;}
+    
+  </style>
+</head>
+  
+  <body>
+  <h2>If you're seeing this, it means the redirect failed.</h2>
+    <br>
+    <br>
+    <p>click <a href="https://www.maxrizzuto.com/about">here</a> to follow the redirect URL!</p>
+    <br>
+    <p>
+    
+    </p>  
+  </body>
+  
+</html>
